@@ -35,6 +35,8 @@ Imagine receiving dozens of YouTube links in your Gmail every day. This system:
 
 ## 🎬 Live Demo
 
+> 📖 **Full Visual Guide**: See [DEMO.md](./DEMO.md) for detailed system flow, API examples, and evaluation metrics.
+
 ### System Flow Visualization
 
 ```
